@@ -1,2 +1,4 @@
 ### Write your code here
-print("hello world")
+import numpy
+import matplotlib.pyplot
+print("chenqi hello world")
